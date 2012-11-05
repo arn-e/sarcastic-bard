@@ -3,11 +3,6 @@ require 'tweetstream'
 require 'pp'
 require 'csv'
 
-CONSUMER_KEY = "zoUduSlLN1hb00oTdNPNDQ"
-CONSUMER_SECRET = "r0hxehpzcwehokoNoZlD2C0XWk6CIGMYGP1YG2A"
-OAUTH_TOKEN = "922375742-scec0SLSAmPp08hbCJCroC6HhjKKmDU6ymUg1yQT"
-OAUTH_TOKEN_SECRET = "w9r4nH5YoaadwaSfBN9MNlA4w3QMHKlKmTdwDkGHI"
-
 class TwitterResponder
   
   def initialize
