@@ -24,7 +24,7 @@ class TwitterResponder
   end
 
   def listen
-    TweetStream::Client.new.track('#dbc_c4') do |status|
+    TweetStream::Client.new.track('#some_hash_tag') do |status|
       response(status.user[:screen_name])
     end  
   end
