@@ -6,7 +6,7 @@ require 'csv'
 class TwitterResponder
   
   def initialize
-    @shakes = CSV.read('shakespeare.csv')
+    @shakes = CSV.read('./lib/shakespeare.csv')
     Twitter.configure do |config|
       config.consumer_key       = CONSUMER_KEY
       config.consumer_secret    = CONSUMER_SECRET
