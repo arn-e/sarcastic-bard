@@ -1,13 +1,13 @@
 ## Bitter Bard
 
-Shakespearean insult generator twitter bot
+Shakespearean insult generator twitter bot  
 Product of a couple beers and a sense of harmless fun one Friday in November
 
-Leverages the 3-column "Shakespeare Insult Kit" found below :
+Leverages the 3-column "Shakespeare Insult Kit" found below :  
 http://www.pangloss.com/seidel/shake_rule.html
 
-Monitors the hashtag specified and responds with comical venom
+Monitors the hashtag specified and responds with comical venom  
 
-Use responsibly
+Use responsibly  
 Enjoy :)
 
